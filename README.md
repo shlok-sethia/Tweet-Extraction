@@ -7,7 +7,7 @@ With all of the tweets circulating every second it is hard to tell whether the s
 ## What am I predicting?
 I'm attempting to predict the word or phrase from the tweet that exemplifies the provided sentiment. The word or phrase should include all characters within that span (i.e. including commas, spaces, etc.). The format is as follows:
 
-<id>,"<word or phrase that supports the sentiment>"
+id,"word or phrase that supports the sentiment"
 
 ### For example:
 2,"very good"
