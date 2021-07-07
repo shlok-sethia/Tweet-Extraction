@@ -10,8 +10,8 @@ I'm attempting to predict the word or phrase from the tweet that exemplifies the
 id,"word or phrase that supports the sentiment"
 
 ### For example:
-2,"very good"
-5,"I am neutral about this"
-6,"bad"
-8,"if you say so!"
+2,"very good" <br />
+5,"I am neutral about this" <br />
+6,"bad" <br />
+8,"if you say so!" <br />
 etc.
